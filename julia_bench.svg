@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:gadfly="http://www.gadflyjl.org/ns"
+     version="1.2"
+     width="260mm" height="160mm" viewBox="0 0 260 160"
+     stroke="none"
+     fill="#000000"
+     stroke-width="0.3"
+     font-size="3.88"
+>
+<g class="plotroot xscalable yscalable" id="fig-de1eed200bad4e528162e33dac355764-element-1">
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="fig-de1eed200bad4e528162e33dac355764-element-2">
+    <text x="125.92" y="148.39" text-anchor="middle" dy="0.6em">nth prime</text>
+  </g>
+  <g class="guide xlabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="fig-de1eed200bad4e528162e33dac355764-element-3">
+    <text x="18.28" y="141.72" text-anchor="middle" dy="0.6em">0</text>
+    <text x="125.92" y="141.72" text-anchor="middle" dy="0.6em">5.0×10⁶</text>
+    <text x="233.56" y="141.72" text-anchor="middle" dy="0.6em">1.0×10⁷</text>
+  </g>
+  <g class="guide colorkey" id="fig-de1eed200bad4e528162e33dac355764-element-4">
+    <g fill="#4C404B" font-size="2.82" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" id="fig-de1eed200bad4e528162e33dac355764-element-5">
+      <text x="239.37" y="71.04" dy="0.35em" id="fig-de1eed200bad4e528162e33dac355764-element-6" class="color_Erathostenes">Erathostenes</text>
+      <text x="239.37" y="74.67" dy="0.35em" id="fig-de1eed200bad4e528162e33dac355764-element-7" class="color_Atkin">Atkin</text>
+      <text x="239.37" y="78.3" dy="0.35em" id="fig-de1eed200bad4e528162e33dac355764-element-8" class="color_Sundaram">Sundaram</text>
+    </g>
+    <g stroke="#000000" stroke-opacity="0.000" id="fig-de1eed200bad4e528162e33dac355764-element-9">
+      <rect x="236.56" y="70.14" width="1.81" height="1.81" id="fig-de1eed200bad4e528162e33dac355764-element-10" class="color_Erathostenes" fill="#00BFFF"/>
+      <rect x="236.56" y="73.76" width="1.81" height="1.81" id="fig-de1eed200bad4e528162e33dac355764-element-11" class="color_Atkin" fill="#D4CA3A"/>
+      <rect x="236.56" y="77.39" width="1.81" height="1.81" id="fig-de1eed200bad4e528162e33dac355764-element-12" class="color_Sundaram" fill="#FF5EA0"/>
+    </g>
+    <g fill="#362A35" font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" stroke="#000000" stroke-opacity="0.000" id="fig-de1eed200bad4e528162e33dac355764-element-13">
+      <text x="236.56" y="67.22" id="fig-de1eed200bad4e528162e33dac355764-element-14">variable</text>
+    </g>
+  </g>
+  <g clip-path="url(#fig-de1eed200bad4e528162e33dac355764-element-16)" id="fig-de1eed200bad4e528162e33dac355764-element-15">
+    <g pointer-events="visible" opacity="1" fill="#000000" fill-opacity="0.000" stroke="#000000" stroke-opacity="0.000" class="guide background" id="fig-de1eed200bad4e528162e33dac355764-element-17">
+      <rect x="16.28" y="5" width="219.28" height="135.72" id="fig-de1eed200bad4e528162e33dac355764-element-18"/>
+    </g>
+    <g class="guide ygridlines xfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="fig-de1eed200bad4e528162e33dac355764-element-19">
+      <path fill="none" d="M16.28,138.72 L 235.56 138.72" id="fig-de1eed200bad4e528162e33dac355764-element-20"/>
+      <path fill="none" d="M16.28,112.37 L 235.56 112.37" id="fig-de1eed200bad4e528162e33dac355764-element-21"/>
+      <path fill="none" d="M16.28,86.03 L 235.56 86.03" id="fig-de1eed200bad4e528162e33dac355764-element-22"/>
+      <path fill="none" d="M16.28,59.69 L 235.56 59.69" id="fig-de1eed200bad4e528162e33dac355764-element-23"/>
+      <path fill="none" d="M16.28,33.34 L 235.56 33.34" id="fig-de1eed200bad4e528162e33dac355764-element-24"/>
+      <path fill="none" d="M16.28,7 L 235.56 7" id="fig-de1eed200bad4e528162e33dac355764-element-25"/>
+    </g>
+    <g class="guide xgridlines yfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="fig-de1eed200bad4e528162e33dac355764-element-26">
+      <path fill="none" d="M18.28,5 L 18.28 140.72" id="fig-de1eed200bad4e528162e33dac355764-element-27"/>
+      <path fill="none" d="M125.92,5 L 125.92 140.72" id="fig-de1eed200bad4e528162e33dac355764-element-28"/>
+      <path fill="none" d="M233.56,5 L 233.56 140.72" id="fig-de1eed200bad4e528162e33dac355764-element-29"/>
+    </g>
+    <g class="plotpanel" id="fig-de1eed200bad4e528162e33dac355764-element-30">
+      <g stroke-width="0.3" fill="#000000" fill-opacity="0.000" stroke-dasharray="none" id="fig-de1eed200bad4e528162e33dac355764-element-31">
+        <path fill="none" d="M18.29,138.71 L 18.29 138.71 18.31 138.71 18.5 138.66 20.44 138.01 39.81 129.74 233.56 19.05" id="fig-de1eed200bad4e528162e33dac355764-element-32" stroke="#00BFFF" class="geometry color_Erathostenes"/>
+        <path fill="none" d="M18.29,138.71 L 18.29 138.71 18.31 138.71 18.5 138.67 20.44 138.17 39.81 132.05 233.56 55.6" id="fig-de1eed200bad4e528162e33dac355764-element-33" stroke="#D4CA3A" class="geometry color_Atkin"/>
+        <path fill="none" d="M18.29,138.71 L 18.29 138.71 18.31 138.71 18.5 138.68 20.44 138.16 39.81 131.16 233.56 37.97" id="fig-de1eed200bad4e528162e33dac355764-element-34" stroke="#FF5EA0" class="geometry color_Sundaram"/>
+      </g>
+      <g class="geometry" id="fig-de1eed200bad4e528162e33dac355764-element-35">
+        <g stroke-width="0.3" id="fig-de1eed200bad4e528162e33dac355764-element-36">
+          <circle cx="18.29" cy="138.71" r="0.9" id="fig-de1eed200bad4e528162e33dac355764-element-37" stroke="#FFFFFF" class="color_Erathostenes" fill="#00BFFF"/>
+          <circle cx="18.29" cy="138.71" r="0.9" id="fig-de1eed200bad4e528162e33dac355764-element-38" stroke="#FFFFFF" class="color_Erathostenes" fill="#00BFFF"/>
+          <circle cx="18.31" cy="138.71" r="0.9" id="fig-de1eed200bad4e528162e33dac355764-element-39" stroke="#FFFFFF" class="color_Erathostenes" fill="#00BFFF"/>
+          <circle cx="18.5" cy="138.66" r="0.9" id="fig-de1eed200bad4e528162e33dac355764-element-40" stroke="#FFFFFF" class="color_Erathostenes" fill="#00BFFF"/>
+          <circle cx="20.44" cy="138.01" r="0.9" id="fig-de1eed200bad4e528162e33dac355764-element-41" stroke="#FFFFFF" class="color_Erathostenes" fill="#00BFFF"/>
+          <circle cx="39.81" cy="129.74" r="0.9" id="fig-de1eed200bad4e528162e33dac355764-element-42" stroke="#FFFFFF" class="color_Erathostenes" fill="#00BFFF"/>
+          <circle cx="233.56" cy="19.05" r="0.9" id="fig-de1eed200bad4e528162e33dac355764-element-43" stroke="#FFFFFF" class="color_Erathostenes" fill="#00BFFF"/>
+          <circle cx="18.29" cy="138.71" r="0.9" id="fig-de1eed200bad4e528162e33dac355764-element-44" stroke="#FFFFFF" class="color_Atkin" fill="#D4CA3A"/>
+          <circle cx="18.29" cy="138.71" r="0.9" id="fig-de1eed200bad4e528162e33dac355764-element-45" stroke="#FFFFFF" class="color_Atkin" fill="#D4CA3A"/>
+          <circle cx="18.31" cy="138.71" r="0.9" id="fig-de1eed200bad4e528162e33dac355764-element-46" stroke="#FFFFFF" class="color_Atkin" fill="#D4CA3A"/>
+          <circle cx="18.5" cy="138.67" r="0.9" id="fig-de1eed200bad4e528162e33dac355764-element-47" stroke="#FFFFFF" class="color_Atkin" fill="#D4CA3A"/>
+          <circle cx="20.44" cy="138.17" r="0.9" id="fig-de1eed200bad4e528162e33dac355764-element-48" stroke="#FFFFFF" class="color_Atkin" fill="#D4CA3A"/>
+          <circle cx="39.81" cy="132.05" r="0.9" id="fig-de1eed200bad4e528162e33dac355764-element-49" stroke="#FFFFFF" class="color_Atkin" fill="#D4CA3A"/>
+          <circle cx="233.56" cy="55.6" r="0.9" id="fig-de1eed200bad4e528162e33dac355764-element-50" stroke="#FFFFFF" class="color_Atkin" fill="#D4CA3A"/>
+          <circle cx="18.29" cy="138.71" r="0.9" id="fig-de1eed200bad4e528162e33dac355764-element-51" stroke="#FFFFFF" class="color_Sundaram" fill="#FF5EA0"/>
+          <circle cx="18.29" cy="138.71" r="0.9" id="fig-de1eed200bad4e528162e33dac355764-element-52" stroke="#FFFFFF" class="color_Sundaram" fill="#FF5EA0"/>
+          <circle cx="18.31" cy="138.71" r="0.9" id="fig-de1eed200bad4e528162e33dac355764-element-53" stroke="#FFFFFF" class="color_Sundaram" fill="#FF5EA0"/>
+          <circle cx="18.5" cy="138.68" r="0.9" id="fig-de1eed200bad4e528162e33dac355764-element-54" stroke="#FFFFFF" class="color_Sundaram" fill="#FF5EA0"/>
+          <circle cx="20.44" cy="138.16" r="0.9" id="fig-de1eed200bad4e528162e33dac355764-element-55" stroke="#FFFFFF" class="color_Sundaram" fill="#FF5EA0"/>
+          <circle cx="39.81" cy="131.16" r="0.9" id="fig-de1eed200bad4e528162e33dac355764-element-56" stroke="#FFFFFF" class="color_Sundaram" fill="#FF5EA0"/>
+          <circle cx="233.56" cy="37.97" r="0.9" id="fig-de1eed200bad4e528162e33dac355764-element-57" stroke="#FFFFFF" class="color_Sundaram" fill="#FF5EA0"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="guide ylabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="fig-de1eed200bad4e528162e33dac355764-element-58">
+    <text x="15.29" y="138.72" text-anchor="end" dy="0.35em" id="fig-de1eed200bad4e528162e33dac355764-element-59">0</text>
+    <text x="15.29" y="112.37" text-anchor="end" dy="0.35em" id="fig-de1eed200bad4e528162e33dac355764-element-60">1</text>
+    <text x="15.29" y="86.03" text-anchor="end" dy="0.35em" id="fig-de1eed200bad4e528162e33dac355764-element-61">2</text>
+    <text x="15.29" y="59.69" text-anchor="end" dy="0.35em" id="fig-de1eed200bad4e528162e33dac355764-element-62">3</text>
+    <text x="15.29" y="33.34" text-anchor="end" dy="0.35em" id="fig-de1eed200bad4e528162e33dac355764-element-63">4</text>
+    <text x="15.29" y="7" text-anchor="end" dy="0.35em" id="fig-de1eed200bad4e528162e33dac355764-element-64">5</text>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="fig-de1eed200bad4e528162e33dac355764-element-65">
+    <text x="8.81" y="70.86" text-anchor="middle" dy="0.35em" transform="rotate(-90, 8.81, 72.86)" id="fig-de1eed200bad4e528162e33dac355764-element-66">elapsed time [s]</text>
+  </g>
+</g>
+<defs>
+<clipPath id="fig-de1eed200bad4e528162e33dac355764-element-16">
+  <path d="M16.28,5 L 235.56 5 235.56 140.72 16.28 140.72" />
+</clipPath
+></defs>
+</svg>
